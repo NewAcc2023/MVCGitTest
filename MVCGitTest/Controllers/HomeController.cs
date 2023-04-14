@@ -15,7 +15,7 @@ namespace MVCGitTest.Controllers
 
 		public IActionResult Index()
 		{
-			ViewBag.Title = "Home";
+			ViewBag.Title = "Home2";
 			return View();
 		}
 
