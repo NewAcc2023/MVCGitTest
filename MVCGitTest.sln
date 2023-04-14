@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCGitTest", "MVCGitTest\MVCGitTest.csproj", "{82F06B34-22B4-44F3-9E77-FC174CE46314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82F06B34-22B4-44F3-9E77-FC174CE46314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82F06B34-22B4-44F3-9E77-FC174CE46314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82F06B34-22B4-44F3-9E77-FC174CE46314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82F06B34-22B4-44F3-9E77-FC174CE46314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E9CFD88-DFDC-4BD1-9757-3E836945CC61}
+	EndGlobalSection
+EndGlobal
